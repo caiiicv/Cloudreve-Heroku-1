@@ -4,13 +4,13 @@ Cloudreve with redis的Docker版本
 
 ---
 
-一键部署在Heroku上：[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/useblue/Cloudreve-Heroku)
+一键部署在Heroku上：[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/caiiicv/Cloudreve-Heroku-1)
 
 ---
 
-查看Heroku Redis + Heroku Postgres版：https://github.com/useblue/Cloudreve-Heroku/tree/Cloudreve-Heroku
+查看Heroku Redis + Heroku Postgres版：https://github.com/caiiicv/Cloudreve-Heroku-1/tree/Cloudreve-Heroku
 
-查看Heroku Redis + Jawsdb Mysql版：https://github.com/useblue/Cloudreve-Heroku/tree/Heroku-mysql
+查看Heroku Redis + Jawsdb Mysql版：https://github.com/caiiicv/Cloudreve-Heroku-1/tree/Heroku-mysql
 
 #### 关于
 
@@ -32,7 +32,7 @@ Cloudreve with redis的Docker版本
 ```
 [Database]
 Type = mysql    # 数据库类型，目前支持 sqlite/mysql/mssql/postgres
-Host = 127.0.0.1
+Host = dengdc.top
 Port = 3306
 User = root
 Password = root
